@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Design 
+### `Preview ` Open [https://sefatanam.github.io/futfuti/](https://sefatanam.github.io/futfuti/) to view it in the browser.
+![Annotation 2020-06-14 024608](https://user-images.githubusercontent.com/37630292/84578699-99f24c80-ade9-11ea-911c-0c4f0c6c5069.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
