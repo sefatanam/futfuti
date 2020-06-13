@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/futfuti/static/css/main.7240acd4.chunk.css",
+    "main.js": "/futfuti/static/js/main.6e109c5b.chunk.js",
+    "main.js.map": "/futfuti/static/js/main.6e109c5b.chunk.js.map",
+    "runtime-main.js": "/futfuti/static/js/runtime-main.109b28f7.js",
+    "runtime-main.js.map": "/futfuti/static/js/runtime-main.109b28f7.js.map",
+    "static/js/2.a408198a.chunk.js": "/futfuti/static/js/2.a408198a.chunk.js",
+    "static/js/2.a408198a.chunk.js.map": "/futfuti/static/js/2.a408198a.chunk.js.map",
+    "index.html": "/futfuti/index.html",
+    "precache-manifest.ef489c9afcc78c74e5d430b252d9c6f7.js": "/futfuti/precache-manifest.ef489c9afcc78c74e5d430b252d9c6f7.js",
+    "service-worker.js": "/futfuti/service-worker.js",
+    "static/css/main.7240acd4.chunk.css.map": "/futfuti/static/css/main.7240acd4.chunk.css.map",
+    "static/js/2.a408198a.chunk.js.LICENSE.txt": "/futfuti/static/js/2.a408198a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.109b28f7.js",
+    "static/js/2.a408198a.chunk.js",
+    "static/css/main.7240acd4.chunk.css",
+    "static/js/main.6e109c5b.chunk.js"
+  ]
+}
